@@ -1,0 +1,36 @@
+*{
+  background-color: palevioletred;
+}
+#home{
+    text-align: center;
+}
+#skills{
+    text-align: center;
+} 
+#Education{
+    text-align: center;
+}
+#project{
+    text-align: center;
+}
+#Contact{
+    text-align: center;
+}
+#homebutton{
+    color: rgb(85, 12, 108);
+}
+#skillsbutton{
+    color: blue;
+}
+#Educationbutton{
+    color: blanchedalmond;
+}
+#projectbutton{
+    color: aquamarine;
+}
+#Contactbutton{
+    color: brown;
+}
+#nav{
+    color: aqua;
+}
